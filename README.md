@@ -1,15 +1,24 @@
 # Desafio CRUD da SysAcademy
 
-Nesse projeto eu utilizo JDBC, JavaFX e MySQL.
+# Sobre o projeto
 
-Nesse projeto temos 2 classes: "Carros" e "Fabricantes"
+Essa aplicação foi construida durante o **1° WorkShop JAVA da Sys Manager**, evento organizado pela [Sys Manager](https://www.sysmanager.com.br/)
 
-Temos a relação de um fabricante e esse fabricante possui varios carros.
+A aplicação consiste em um CRUD, utilizando as tabelas **Fabricante** e **Carros**
 
-Criei a interface utilizando o JavaFX.
+## Layout Aplicação
 
-É possivel Criar, listar, atualizar e excluir as tabelas fabricantes e carros.
+![fabricantes](https://github.com/brunoduarte96/DesafioCRUDJDBCSysManager/assets/106353520/0da73f97-6831-4fe2-a711-2ec2bd820db3)
+![carros](https://github.com/brunoduarte96/DesafioCRUDJDBCSysManager/assets/106353520/17126933-4092-44b8-b049-5af10f88967c)
 
+## Modelo conceitual
+![DER](https://github.com/brunoduarte96/DesafioCRUDJDBCSysManager/assets/106353520/0715acc9-bb9e-448c-8e59-23083cb8656f)
 
-
-
+# Tecnologias utilizadas
+## Back end
+- Java
+- JDBC
+## Front end
+- JavaFX
+## Banco de dados
+- MySQL
